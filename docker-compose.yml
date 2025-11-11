@@ -1,0 +1,11 @@
+services:
+  orders:
+    build:
+      context: ./src/OrderService
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    volumes:
+      - orders_db:/app/data
+volumes:
+  orders_db:

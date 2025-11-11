@@ -1,0 +1,51 @@
+# --- Build outputs
+**/bin/
+**/obj/
+**/out/
+artifacts/
+
+# --- IDE/Editor
+.vs/
+.idea/
+_ReSharper.Caches/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.csproj.user
+
+# --- VS Code (keep recommended files if present)
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# --- OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Tests & coverage
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+coverage*/
+**/coverage.cobertura.xml
+
+# --- Logs
+*.log
+Logs/
+logs/
+
+# --- Local data (SQLite)
+src/OrderService/app.db
+
+# --- User secrets / local settings
+secrets.json
+**/appsettings.*.local.json
+
+# --- Misc
+*.pid
+*.swp
+*~

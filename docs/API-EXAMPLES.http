@@ -1,0 +1,26 @@
+### Health
+GET http://localhost:8080/health
+
+### List Orders
+GET http://localhost:8080/orders
+
+### Create Order
+POST http://localhost:8080/orders
+Content-Type: application/json
+
+{
+  "customer": "Phil",
+  "total": 19.99,
+  "status": "new"
+}
+
+### Update Order
+PUT http://localhost:8080/orders/1
+Content-Type: application/json
+
+{
+  "status": "paid"
+}
+
+### Delete Order
+DELETE http://localhost:8080/orders/1
