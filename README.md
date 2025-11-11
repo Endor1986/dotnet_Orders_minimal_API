@@ -11,13 +11,6 @@
 <h1 align="center">dotnet-orders-minimalapi</h1>
 <p align="center">Eine kompakte <strong>ASP.NET Core 8 Minimal API</strong> für Bestellungen – mit <strong>EF Core (SQLite)</strong>, <strong>Swagger/OpenAPI</strong>, <strong>Docker</strong> und <strong>xUnit</strong>-Tests.</p>
 
-<p align="center">
-  <!-- Setze deinen echten Repo-Slug: Endor1986/dotnet-orders-minimalapi -->
-  <a href="https://github.com/Endor1986/dotnet-orders-minimalapi/actions/workflows/ci.yml">
-    <img alt=".NET CI" src="https://github.com/Endor1986/dotnet-orders-minimalapi/actions/workflows/ci.yml/badge.svg">
-  </a>
-</p>
-
 ---
 
 ## 🌟 Features
