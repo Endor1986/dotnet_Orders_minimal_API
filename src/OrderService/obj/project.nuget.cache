@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hSjhVqIR1/I=",
+  "dgSpecHash": "zXwDe2WYXWY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Phil\\Desktop\\dotnet_orders_minimalAPI\\src\\OrderService\\OrderService.csproj",
+  "projectFilePath": "C:\\Users\\Phil\\Desktop\\GITHUB\\dotnet_orders_minimal_API\\src\\OrderService\\OrderService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Phil\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.10\\microsoft.aspnetcore.openapi.8.0.10.nupkg.sha512",
     "C:\\Users\\Phil\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.10\\microsoft.data.sqlite.core.8.0.10.nupkg.sha512",

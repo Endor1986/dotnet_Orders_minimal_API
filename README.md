@@ -86,10 +86,7 @@ dotnet test ./tests/OrderService.Tests/OrderService.Tests.csproj -c Release
 ```
 
 ## 🧰 Qualität & DX
-- **Warnings as Errors** & **AnalysisLevel** in `Directory.Build.props`
-- **Code Style** via `.editorconfig`
-- **CI**: `.github/workflows/ci.yml` – Restore → Format-Check → Build → Test (+Coverage)
-- **Docs**: 
+  - **Docs**: 
   - Workflow: **[docs/WORKFLOW.md](docs/WORKFLOW.md)**
   - Buglog: **[docs/BUGLOG.md](docs/BUGLOG.md)**
 

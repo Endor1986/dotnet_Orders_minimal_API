@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Phil\\Desktop\\dotnet_orders_minimalAPI\\src\\OrderService\\OrderService.csproj": {}
+    "C:\\Users\\Phil\\Desktop\\GITHUB\\dotnet_orders_minimal_API\\src\\OrderService\\OrderService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Phil\\Desktop\\dotnet_orders_minimalAPI\\src\\OrderService\\OrderService.csproj": {
+    "C:\\Users\\Phil\\Desktop\\GITHUB\\dotnet_orders_minimal_API\\src\\OrderService\\OrderService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Phil\\Desktop\\dotnet_orders_minimalAPI\\src\\OrderService\\OrderService.csproj",
+        "projectUniqueName": "C:\\Users\\Phil\\Desktop\\GITHUB\\dotnet_orders_minimal_API\\src\\OrderService\\OrderService.csproj",
         "projectName": "OrderService",
-        "projectPath": "C:\\Users\\Phil\\Desktop\\dotnet_orders_minimalAPI\\src\\OrderService\\OrderService.csproj",
+        "projectPath": "C:\\Users\\Phil\\Desktop\\GITHUB\\dotnet_orders_minimal_API\\src\\OrderService\\OrderService.csproj",
         "packagesPath": "C:\\Users\\Phil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Phil\\Desktop\\dotnet_orders_minimalAPI\\src\\OrderService\\obj\\",
+        "outputPath": "C:\\Users\\Phil\\Desktop\\GITHUB\\dotnet_orders_minimal_API\\src\\OrderService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
