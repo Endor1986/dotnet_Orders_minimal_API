@@ -86,7 +86,7 @@ dotnet test ./tests/OrderService.Tests/OrderService.Tests.csproj -c Release
 ```
 
 ## 🧰 Qualität & DX
- /docs**: 
+ /docs
   - Workflow: **[docs/WORKFLOW.md](docs/WORKFLOW.md)**
   - Buglog: **[docs/BUGLOG.md](docs/BUGLOG.md)**
 
